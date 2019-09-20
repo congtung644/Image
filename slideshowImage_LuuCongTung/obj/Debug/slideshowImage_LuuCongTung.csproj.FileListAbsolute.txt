@@ -1,0 +1,10 @@
+C:\Users\LE NGUYEN\source\repos\slideshowImage_LuuCongTung\slideshowImage_LuuCongTung\bin\Debug\slideshowImage_LuuCongTung.exe.config
+C:\Users\LE NGUYEN\source\repos\slideshowImage_LuuCongTung\slideshowImage_LuuCongTung\bin\Debug\slideshowImage_LuuCongTung.exe
+C:\Users\LE NGUYEN\source\repos\slideshowImage_LuuCongTung\slideshowImage_LuuCongTung\bin\Debug\slideshowImage_LuuCongTung.pdb
+C:\Users\LE NGUYEN\source\repos\slideshowImage_LuuCongTung\slideshowImage_LuuCongTung\obj\Debug\slideshowImage_LuuCongTung.csprojAssemblyReference.cache
+C:\Users\LE NGUYEN\source\repos\slideshowImage_LuuCongTung\slideshowImage_LuuCongTung\obj\Debug\slideshowImage_LuuCongTung.Form1.resources
+C:\Users\LE NGUYEN\source\repos\slideshowImage_LuuCongTung\slideshowImage_LuuCongTung\obj\Debug\slideshowImage_LuuCongTung.Properties.Resources.resources
+C:\Users\LE NGUYEN\source\repos\slideshowImage_LuuCongTung\slideshowImage_LuuCongTung\obj\Debug\slideshowImage_LuuCongTung.csproj.GenerateResource.cache
+C:\Users\LE NGUYEN\source\repos\slideshowImage_LuuCongTung\slideshowImage_LuuCongTung\obj\Debug\slideshowImage_LuuCongTung.csproj.CoreCompileInputs.cache
+C:\Users\LE NGUYEN\source\repos\slideshowImage_LuuCongTung\slideshowImage_LuuCongTung\obj\Debug\slideshowImage_LuuCongTung.exe
+C:\Users\LE NGUYEN\source\repos\slideshowImage_LuuCongTung\slideshowImage_LuuCongTung\obj\Debug\slideshowImage_LuuCongTung.pdb
